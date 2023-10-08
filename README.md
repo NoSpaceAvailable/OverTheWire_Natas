@@ -7,3 +7,7 @@ I love learning new things, and It's my pleasure if I receive any feedback about
 Don't hesitate to send your feedback at: lequoccuong250105@outlook.com
 
 Thanks for your love, and wish you success on your choosen path!
+----------------------------------------------------------------
+
+### OS: Windows 10 Professional / Window Subsystem Linux (Ubuntu)
+### Browser: Microsoft Edge
