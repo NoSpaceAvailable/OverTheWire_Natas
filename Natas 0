@@ -1,0 +1,17 @@
+# Natas level 0 writeup
+
+# Login
+Username: natas0
+Password: natas0
+URL:      http://natas0.natas.labs.overthewire.org
+
+# Task
+You can find the password for the next level on this page.
+
+#Theory
+None
+
+#Solution
+1. Browser approach:
+  - First, you will see a nearly-blank site when accessing the site given. 
+  - As nothing in the site's content, I try to read the source code:
