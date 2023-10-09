@@ -27,9 +27,9 @@ None
       should use it in a safe environment.
 
   - I use this command to access the site with given username and password:
-    *curl --user username:password websiteurl*
-      - *--user* is a flag that tell the *curl* command to send username and password to the server for authentication.
-      - *websiteurl* is the site you want to access
+    `curl --user username:password websiteurl`
+      - `--user` is a flag that tells the *curl* command to send a username and password to the server for authentication.
+      - `websiteurl` is the site you want to access
         
     ![Capture](https://github.com/NoSpaceAvailable/OverTheWire_Natas/assets/143888307/8f7f5a6a-e234-45e5-908e-22cf26361f42)
 - **Password:** g9D9cREhslqBKtcA2uocGHPfMZVzeFK6
